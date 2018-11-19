@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/build/intermediates/res/merged/debug/layout_preferences_layout.xml.flat",
+        "source": "/Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/src/main/res/layout/preferences_layout.xml"
+    },
+    {
+        "merged": "/Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/build/intermediates/res/merged/debug/layout_course_widget_provider.xml.flat",
+        "source": "/Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/src/main/res/layout/course_widget_provider.xml"
+    },
+    {
+        "merged": "/Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/build/intermediates/res/merged/debug/drawable-hdpi_background.jpg.flat",
+        "source": "/Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/src/main/res/drawable-hdpi/background.jpg"
+    },
+    {
+        "merged": "/Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/build/intermediates/res/merged/debug/layout_course_detail.xml.flat",
+        "source": "/Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/src/main/res/layout/course_detail.xml"
+    },
+    {
+        "merged": "/Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/build/intermediates/res/merged/debug/layout_course_item.xml.flat",
+        "source": "/Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/src/main/res/layout/course_item.xml"
+    },
+    {
+        "merged": "/Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/build/intermediates/res/merged/debug/layout_my_app_widget_provider_info.xml.flat",
+        "source": "/Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/src/main/res/layout/my_app_widget_provider_info.xml"
+    }
+]

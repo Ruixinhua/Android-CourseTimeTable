@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="bgblue">#bee9ea</drawable>
+    <drawable name="bgpink">#f1c8d1</drawable>
+    <drawable name="bgwhite">#e3f1d7</drawable>
+    <drawable name="fcblack">#000000</drawable>
+    <drawable name="fcblue">#0000ff</drawable>
+    <drawable name="fcred">#ff0000</drawable>
+    <string name="add_button">Add Module</string>
+    <string name="addtional_info">Additional info (comments):</string>
+    <string name="app_name">Course Table</string>
+    <string name="appwidget_text">Course Widget</string>
+    <string name="background">Background</string>
+    <string name="black">Black</string>
+    <string name="bold">Bold</string>
+    <string name="bold_italic">Bold-italic</string>
+    <string name="class_choice">Lecture/Practical: </string>
+    <string name="course_widget_title">Today\'s Upcoming Class</string>
+    <string name="day_of_week">Day of Week: </string>
+    <string name="end_time">End Time</string>
+    <string name="first_letter"/>
+    <string name="font">Font</string>
+    <string name="font_color">Font Color</string>
+    <string name="font_famliy">Font Family</string>
+    <string name="font_size">Font Size</string>
+    <string name="full_module_name">Full Module Name: </string>
+    <string name="italic">Italic</string>
+    <string name="lecture">Lecture</string>
+    <string name="location">Location (room #): </string>
+    <string name="module_code">Module Code: </string>
+    <string name="no_notification">0 minute</string>
+    <string name="notification_10">10 minutes</string>
+    <string name="notification_15">15 minutes</string>
+    <string name="notification_5">5 minutes</string>
+    <string name="notifications">"Notifications: "</string>
+    <string name="practical">Practical</string>
+    <string name="preferences">Preferences</string>
+    <string name="red">Red</string>
+    <string name="start_and_end__time">Start time and End time: </string>
+    <string name="start_time">Start Time</string>
+    <string name="white">White</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

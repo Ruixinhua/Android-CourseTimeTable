@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/src/main/AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from /Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/src/main/AndroidManifest.xml:3:5-46
+		INJECTED from /Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/src/main/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from /Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/src/main/AndroidManifest.xml:11:5-41:19
+	android:label
+		ADDED from /Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/src/main/AndroidManifest.xml:14:9-41
+	android:icon
+		ADDED from /Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/src/main/AndroidManifest.xml:13:9-45
+	android:allowBackup
+		ADDED from /Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/src/main/AndroidManifest.xml:15:9-40
+activity#com.ruixinhua.mycoursetimetable.MainActivity
+ADDED from /Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/src/main/AndroidManifest.xml:16:9-24:20
+	android:label
+		ADDED from /Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/src/main/AndroidManifest.xml:18:13-45
+	android:name
+		ADDED from /Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/src/main/AndroidManifest.xml:17:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/src/main/AndroidManifest.xml:22:27-74
+receiver#com.ruixinhua.mycoursetimetable.AlarmReceiver
+ADDED from /Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/src/main/AndroidManifest.xml:26:9-31:20
+	android:enabled
+		ADDED from /Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/src/main/AndroidManifest.xml:28:13-35
+	android:exported
+		ADDED from /Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/src/main/AndroidManifest.xml:29:13-36
+	android:name
+		ADDED from /Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/src/main/AndroidManifest.xml:27:13-42
+receiver#com.ruixinhua.mycoursetimetable.CourseWidget
+ADDED from /Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/src/main/AndroidManifest.xml:32:9-40:20
+	android:name
+		ADDED from /Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/src/main/AndroidManifest.xml:32:19-47
+intent-filter#action:name:android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/src/main/AndroidManifest.xml:33:13-35:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/src/main/AndroidManifest.xml:34:17-84
+	android:name
+		ADDED from /Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/src/main/AndroidManifest.xml:34:25-81
+meta-data#android.appwidget.provider
+ADDED from /Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/src/main/AndroidManifest.xml:37:13-39:74
+	android:resource
+		ADDED from /Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/src/main/AndroidManifest.xml:39:17-71
+	android:name
+		ADDED from /Users/ruixinhua/Desktop/ParticleTextView-master/MyCourseTimetable/app/src/main/AndroidManifest.xml:38:17-58
